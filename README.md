@@ -5,4 +5,5 @@ JAVA Solutions for Leetcode
 <li>009 Palindrome Number</li>
 <li>026 Remove Duplicates from Sorted Array</li>
 <li>027 Revers Element</li>
+<li>028 Find the Index of the First Occurrence in a String</li>
 <li>035 Search Insert Position</li>
