@@ -8,3 +8,4 @@ JAVA Solutions for Leetcode
 <li>028 Find the Index of the First Occurrence in a String</li>
 <li>035 Search Insert Position</li>
 <li>058 Length of Last Word</li>
+<li>066 Plus One</li>
