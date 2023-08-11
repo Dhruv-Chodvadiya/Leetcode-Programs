@@ -13,7 +13,6 @@ public class Plus_One_066 {
                 digits[i]++;
                 return digits;
             }
-
             digits[i] = 0;
         }
 
