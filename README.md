@@ -9,3 +9,5 @@ JAVA Solutions for Leetcode
 <li>035 Search Insert Position</li>
 <li>058 Length of Last Word</li>
 <li>066 Plus One</li>
+<li>1876 Substrings of Size Three with Distinct Characters</li>
+
