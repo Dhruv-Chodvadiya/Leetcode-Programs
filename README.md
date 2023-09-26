@@ -11,3 +11,4 @@ JAVA Solutions for Leetcode
 <li>066 Plus One</li>
 <li>1876 Substrings of Size Three with Distinct Characters</li>
 <Li>2255 Count Prefixes of a Given String</Li>
+<li>1974 Minimum Time to Type Word Using Special Typewriter</li>
