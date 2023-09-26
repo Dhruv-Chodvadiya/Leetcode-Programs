@@ -10,4 +10,4 @@ JAVA Solutions for Leetcode
 <li>058 Length of Last Word</li>
 <li>066 Plus One</li>
 <li>1876 Substrings of Size Three with Distinct Characters</li>
-
+<Li>2255 Count Prefixes of a Given String</Li>
