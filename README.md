@@ -13,3 +13,4 @@ JAVA Solutions for Leetcode
 <Li>2255 Count Prefixes of a Given String</Li>
 <li>1974 Minimum Time to Type Word Using Special Typewriter</li>
 <li>2351 First Letter to Appear Twice</li>
+<li>1880 Check if Word Equals Summation of Two Words</li>
