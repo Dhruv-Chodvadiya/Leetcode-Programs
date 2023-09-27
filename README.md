@@ -14,3 +14,4 @@ JAVA Solutions for Leetcode
 <li>1974 Minimum Time to Type Word Using Special Typewriter</li>
 <li>2351 First Letter to Appear Twice</li>
 <li>1880 Check if Word Equals Summation of Two Words</li>
+<li>2278 Percentage of Letter in String</li>
