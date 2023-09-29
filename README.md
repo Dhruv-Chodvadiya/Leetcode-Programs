@@ -17,3 +17,4 @@ JAVA Solutions for Leetcode
 <li>2278 Percentage of Letter in String</li>
 <li>1160 Find Words That Can Be Formed by Characters</li>
 <li>2696 Minimum String Length After Removing Substrings</li>
+<li>2042 Check if Numbers Are Ascending in a Sentence</li>
