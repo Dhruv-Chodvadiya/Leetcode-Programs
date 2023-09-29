@@ -16,3 +16,4 @@ JAVA Solutions for Leetcode
 <li>1880 Check if Word Equals Summation of Two Words</li>
 <li>2278 Percentage of Letter in String</li>
 <li>1160 Find Words That Can Be Formed by Characters</li>
+<li>2696 Minimum String Length After Removing Substrings</li>
