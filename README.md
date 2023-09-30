@@ -19,3 +19,4 @@ JAVA Solutions for Leetcode
 <li>2696 Minimum String Length After Removing Substrings</li>
 <li>2042 Check if Numbers Are Ascending in a Sentence</li>
 <li>2138 Divide a String Into Groups of Size k</li>
+<li>771 Jewels and Stones</li>
