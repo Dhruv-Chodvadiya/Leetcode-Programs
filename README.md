@@ -22,3 +22,4 @@ JAVA Solutions for Leetcode
 <li>771 Jewels and Stones</li>
 <li>2243 Calculate Digit Sum of a String</li>
 <li>696 Count Binary Substrings</li>
+<li>1694 Reformat Phone Number</li>
