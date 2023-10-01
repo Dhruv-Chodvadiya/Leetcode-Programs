@@ -20,3 +20,4 @@ JAVA Solutions for Leetcode
 <li>2042 Check if Numbers Are Ascending in a Sentence</li>
 <li>2138 Divide a String Into Groups of Size k</li>
 <li>771 Jewels and Stones</li>
+<li>2243 Calculate Digit Sum of a String</li>
