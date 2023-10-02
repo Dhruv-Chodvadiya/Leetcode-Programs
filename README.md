@@ -26,3 +26,4 @@ JAVA Solutions for Leetcode
 <li>2224 Minimum Number of Operations to Convert Time</li>
 <li>1598 Crawler Log Folder</li>
 <li>1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence</li>
+<li>1507 Reformat Date</li>
