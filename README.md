@@ -24,3 +24,4 @@ JAVA Solutions for Leetcode
 <li>696 Count Binary Substrings</li>
 <li>1694 Reformat Phone Number</li>
 <li>2224 Minimum Number of Operations to Convert Time</li>
+<li>1598 Crawler Log Folder</li>
