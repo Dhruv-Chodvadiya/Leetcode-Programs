@@ -23,3 +23,4 @@ JAVA Solutions for Leetcode
 <li>2243 Calculate Digit Sum of a String</li>
 <li>696 Count Binary Substrings</li>
 <li>1694 Reformat Phone Number</li>
+<li>2224 Minimum Number of Operations to Convert Time</li>
