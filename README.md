@@ -29,3 +29,4 @@ JAVA Solutions for Leetcode
 <li>1507 Reformat Date</li>
 <li>1078 Occurrences After Bigram</li>
 <li>917 Reverse Only Letters</li>
+<li>2490 Circular Sentence</li>
