@@ -33,3 +33,4 @@ JAVA Solutions for Leetcode
 <li>171 Excel Sheet Column Number</li>
 <li>1945 Sum of Digits of String After Convert</li>
 <li>1012 Remove Outermost Parentheses</li>
+<li>1544 Make The String Great</li>
