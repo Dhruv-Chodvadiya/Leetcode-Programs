@@ -35,3 +35,4 @@ JAVA Solutions for Leetcode
 <li>1012 Remove Outermost Parentheses</li>
 <li>1544 Make The String Great</li>
 <li>20 Valid Parentheses</li>
+<li>1446 Consecutive Characters</li>
