@@ -34,3 +34,4 @@ JAVA Solutions for Leetcode
 <li>1945 Sum of Digits of String After Convert</li>
 <li>1012 Remove Outermost Parentheses</li>
 <li>1544 Make The String Great</li>
+<li>20 Valid Parentheses</li>
