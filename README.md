@@ -36,3 +36,4 @@ JAVA Solutions for Leetcode
 <li>1544 Make The String Great</li>
 <li>20 Valid Parentheses</li>
 <li>1446 Consecutive Characters</li>
+<li>521 Longest Uncommon Subsequence I</li>
