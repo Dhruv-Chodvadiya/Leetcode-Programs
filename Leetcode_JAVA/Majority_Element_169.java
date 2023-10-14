@@ -15,7 +15,6 @@ public class Majority_Element_169 {
             if(temp>count){
                 count=temp;
                 num=arr[i];
-
             }
         }
 //        return num;
