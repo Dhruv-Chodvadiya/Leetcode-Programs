@@ -37,3 +37,4 @@ JAVA Solutions for Leetcode
 <li>20 Valid Parentheses</li>
 <li>1446 Consecutive Characters</li>
 <li>521 Longest Uncommon Subsequence I</li>
+<li>169 Majority Element</li>
