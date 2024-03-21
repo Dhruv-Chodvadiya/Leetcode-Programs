@@ -17,6 +17,7 @@ public class Majority_Element_169 {
                 num=arr[i];
             }
         }
+
         System.out.println(num);
     }
 }
