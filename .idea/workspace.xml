@@ -46,20 +46,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "C:/Users/PCCOM/IdeaProjects/REASET",
-    "onboarding.tips.debug.path": "C:/Users/PCCOM/IdeaProjects/Leetcode/Leetcode_JAVA/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PCCOM/IdeaProjects/REASET&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/PCCOM/IdeaProjects/Leetcode/Leetcode_JAVA/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Majority_Element_169">
+}</component>
+  <component name="RunManager" selected="Application.Climbing_Stairs_70">
+    <configuration name="Climbing_Stairs_70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Climbing_Stairs_70" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Consecutive_Characters_1446" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Consecutive_Characters_1446" />
       <module name="Leetcode" />
@@ -69,13 +76,6 @@
     </configuration>
     <configuration name="Majority_Element_169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Majority_Element_169" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Parentheses_1021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Parentheses_1021" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Climbing_Stairs_70" />
         <item itemvalue="Application.Majority_Element_169" />
         <item itemvalue="Application.Subsequence_521" />
         <item itemvalue="Application.Consecutive_Characters_1446" />
         <item itemvalue="Application.Valid_Parentheses_20" />
-        <item itemvalue="Application.Parentheses_1021" />
       </list>
     </recent_temporary>
   </component>
