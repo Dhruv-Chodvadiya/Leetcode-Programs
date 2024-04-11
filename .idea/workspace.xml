@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29f9c1ca-884d-4edc-be03-896295231fac" name="Changes" comment="169 commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29f9c1ca-884d-4edc-be03-896295231fac" name="Changes" comment="README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,19 +44,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PCCOM/IdeaProjects/REASET&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/PCCOM/IdeaProjects/Leetcode/Leetcode_JAVA/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "C:/Users/PCCOM/IdeaProjects/Leetcode",
+    "onboarding.tips.debug.path": "C:/Users/PCCOM/IdeaProjects/Leetcode/Leetcode_JAVA/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Climbing_Stairs_70">
     <configuration name="Climbing_Stairs_70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Climbing_Stairs_70" />
@@ -113,22 +111,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690098472703</updated>
-    </task>
-    <task id="LOCAL-00024" summary="1160 commit">
-      <option name="closed" value="true" />
-      <created>1695990045672</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1695990045672</updated>
-    </task>
-    <task id="LOCAL-00025" summary="README.md commit">
-      <option name="closed" value="true" />
-      <created>1695990065763</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1695990065763</updated>
     </task>
     <task id="LOCAL-00026" summary="2696 commit">
       <option name="closed" value="true" />
@@ -506,7 +488,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711027940838</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="70 commit">
+      <option name="closed" value="true" />
+      <created>1712583221774</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1712583221774</updated>
+    </task>
+    <task id="LOCAL-00074" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1712583295407</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1712583295408</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -521,8 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1880 commit" />
-    <MESSAGE value="2278 commit" />
     <MESSAGE value="1160 commit" />
     <MESSAGE value="2696 commit" />
     <MESSAGE value="2042 commit" />
@@ -546,6 +542,8 @@
     <MESSAGE value="521 commit" />
     <MESSAGE value="README.md commit" />
     <MESSAGE value="169 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="169 commit" />
+    <MESSAGE value="70 commit" />
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
 </project>
