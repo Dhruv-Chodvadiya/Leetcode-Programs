@@ -18,5 +18,6 @@ public class Majority_Element_169 {
             }
         }
         System.out.println(num);
+
     }
 }
