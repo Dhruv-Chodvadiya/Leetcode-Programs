@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29f9c1ca-884d-4edc-be03-896295231fac" name="Changes" comment="169" />
+    <list default="true" id="29f9c1ca-884d-4edc-be03-896295231fac" name="Changes" comment="README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,22 +111,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690098472703</updated>
-    </task>
-    <task id="LOCAL-00029" summary="README.md commit">
-      <option name="closed" value="true" />
-      <created>1695990423282</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1695990423282</updated>
-    </task>
-    <task id="LOCAL-00030" summary="2138 commit">
-      <option name="closed" value="true" />
-      <created>1696081448487</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1696081448487</updated>
     </task>
     <task id="LOCAL-00031" summary="README.md commit">
       <option name="closed" value="true" />
@@ -504,7 +488,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712858470346</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1712941361657</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1712941361658</updated>
+    </task>
+    <task id="LOCAL-00079" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1712941399839</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1712941399840</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,8 +542,8 @@
     <MESSAGE value="README.md commit" />
     <MESSAGE value="169 commit" />
     <MESSAGE value="70 commit" />
-    <MESSAGE value="README.md" />
     <MESSAGE value="169" />
-    <option name="LAST_COMMIT_MESSAGE" value="169" />
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
 </project>
