@@ -112,38 +112,6 @@
       <option name="presentableId" value="Default" />
       <updated>1690098472703</updated>
     </task>
-    <task id="LOCAL-00047" summary="README.md commit">
-      <option name="closed" value="true" />
-      <created>1696343513234</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1696343513234</updated>
-    </task>
-    <task id="LOCAL-00048" summary="917 commit">
-      <option name="closed" value="true" />
-      <created>1696343671665</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1696343671665</updated>
-    </task>
-    <task id="LOCAL-00049" summary="README.md commit">
-      <option name="closed" value="true" />
-      <created>1696343689003</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1696343689003</updated>
-    </task>
-    <task id="LOCAL-00050" summary="2490 commit">
-      <option name="closed" value="true" />
-      <created>1696343936447</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1696343936448</updated>
-    </task>
     <task id="LOCAL-00051" summary="README.md commit">
       <option name="closed" value="true" />
       <created>1696343954622</created>
@@ -504,7 +472,39 @@
       <option name="project" value="LOCAL" />
       <updated>1713285552394</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1713460860424</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1713460860424</updated>
+    </task>
+    <task id="LOCAL-00097" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1713460888054</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1713460888054</updated>
+    </task>
+    <task id="LOCAL-00098" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1713460909676</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1713460909676</updated>
+    </task>
+    <task id="LOCAL-00099" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1713460920352</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1713460920352</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
